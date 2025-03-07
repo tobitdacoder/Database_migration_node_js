@@ -43,4 +43,12 @@ THIS IS THE DELETE METHOD:
 
 
 
+## Challenges faced and Solution found:
+
+I had to resetart the entire wor because one of the table was not able to be migrated, this because the up method could not be found. After doing research, I came to realize that it was the incompatibility of the node.js that I had on my PC, with the sequelize version installed. So To solve that issue, I had to uninstall the version 22.24.1 and install the version 16 of node. 
+
+Another one was that I was not able to run the server in order to access the database via Postman. this was resolved when I created an app.js file that is the root file, and run it with the command "node app.js".
+
+
+
 
