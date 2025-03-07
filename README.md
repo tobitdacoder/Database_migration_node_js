@@ -33,13 +33,13 @@ THIS IS THE POST METHOD:
 ![Alt Text](POST.png)
 
 THIS IS THE GET METHOD:
-![Alt Text](Screenshot 2025-03-07 185414.png)
+![Alt Text](GETALL.png)
 
 THIS IS THE PUT METHOD:
-![Alt Text](Screenshot 2025-03-07 190128.png)
+![Alt Text](PUT.png)
 
 THIS IS THE DELETE METHOD:
-![Alt Text](POST.png)
+![Alt Text](DELETE.png)
 
 
 
