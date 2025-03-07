@@ -1,5 +1,5 @@
 # Database_migration_node_js
- this repository contains the work for database migration using Node.Js
+
 
 
 ## Migration commands:
@@ -28,6 +28,8 @@ The routes were created in Express. these allows to create, read, update and del
 ## CRUD Operations with Postman:
 
 In this project, the CRUD operations were aplied to the database via Postman and here are th edifferent pictures showing the different methods being used on the database successfully: 
+
+![Alt Text](POST.png)
 
 
 
