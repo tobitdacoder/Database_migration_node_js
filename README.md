@@ -29,6 +29,16 @@ The routes were created in Express. these allows to create, read, update and del
 
 In this project, the CRUD operations were aplied to the database via Postman and here are th edifferent pictures showing the different methods being used on the database successfully: 
 
+THIS IS THE POST METHOD:
+![Alt Text](POST.png)
+
+THIS IS THE GET METHOD:
+![Alt Text](Screenshot 2025-03-07 185414.png)
+
+THIS IS THE PUT METHOD:
+![Alt Text](Screenshot 2025-03-07 190128.png)
+
+THIS IS THE DELETE METHOD:
 ![Alt Text](POST.png)
 
 
